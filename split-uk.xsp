@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>split-uk</name>
+    <match>one</match>
+    <rule field="studio" operator="startswith">BBC</rule>
+    <rule field="studio" operator="startswith">Sky</rule>
+    <rule field="studio" operator="is">Channel 4</rule>
+    <rule field="studio" operator="is">E4</rule>
+    <rule field="studio" operator="is">ITV</rule>
+    <rule field="studio" operator="is">Dave</rule>
+    <rule field="studio" operator="is">Oxygen</rule>
+    <limit>250</limit>
+</smartplaylist>

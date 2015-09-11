@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>FOX</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>simpsons</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>family guy</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>american dad</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>futurama</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>boston public</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>house</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>arrested development</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>that 70s show</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>24</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>bones</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>bobs burgers</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the x factor</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>90210</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>prison break</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the outsiders</value>
+    </rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

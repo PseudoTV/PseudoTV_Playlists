@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-25-sci-fi-movies</name>
+    <match>all</match>
+    <rule field="playlist" operator="is">get-sci-fi-genres-all.xsp</rule>
+    <rule field="time" operator="greaterthan">0</rule>
+    <rule field="videoresolution" operator="lessthan">720</rule>
+    <limit>25</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

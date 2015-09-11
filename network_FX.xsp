@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>FX</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>American Horror Story</value>
+        <value>Archer (2009)</value>
+        <value>Fargo</value>
+        <value>Justified</value>
+        <value>Louie (2010)</value>
+        <value>Sons of Anarchy</value>
+        <value>The Americans (2013)</value>
+        <value>The Bridge (2013)</value>
+        <value>The Strain</value>
+        <value>The Shield</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

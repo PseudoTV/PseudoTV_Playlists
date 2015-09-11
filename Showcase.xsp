@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Showcase</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>continuum</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>csi</value>
+    </rule>
+
+<rule field="path" operator="contains">
+        <value>Da Ali G Show</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>deadwood</value>
+    </rule>
+
+<rule field="path" operator="contains">
+        <value>house</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>shameless</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>the shield</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>weeds</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>trailer park boys</value>
+    </rule>
+<limit>50</limit>
+  
+    <order direction="ascending">random</order>
+
+</smartplaylist>

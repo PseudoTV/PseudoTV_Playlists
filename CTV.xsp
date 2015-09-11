@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>CTV</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>big bang theory</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>home improvement</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>shark tank</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>criminal minds</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>csi miami</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>csi ny</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the sopranos</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>csi</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the mentalist</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>shark tank</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>undercover boss</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>canadas worst handyman</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>according to jim</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>charmed</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the cosby show</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>drew carey show</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>greys anatomy</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>law and order</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>30 rock</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>dexter</value>
+    </rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

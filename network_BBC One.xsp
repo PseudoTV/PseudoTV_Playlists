@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>BBC One</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Andrew Marr's History of the World</value>
+        <value>Connections</value>
+        <value>Frozen Planet</value>
+        <value>Human Planet</value>
+        <value>Egypt</value>
+        <value>Empire (2012)</value>
+        <value>Luther</value>
+        <value>Planet Dinosaur</value>
+        <value>Sherlock</value>
+        <value>Survivors (2008)</value>
+        <value>The Musketeers</value>
+        <value>The White Queen</value>
+        <value>Walking with Beasts</value>
+        <value>Walking with Dinosaurs</value>
+        <value>The Blue Planet</value>
+        <value>The Story of Wales</value>
+        <value>Walking with Monsters</value>
+        <value>The Minster</value>
+        <value>Planet Earth</value>
+        <value>State of the Planet</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

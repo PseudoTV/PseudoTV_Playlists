@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Cinema Experience</name>
+    <match>all</match>
+    <rule field="videoresolution" operator="greaterthan">
+        <value>720</value>
+    </rule>
+    <rule field="playcount" operator="is">
+        <value>0</value>
+    </rule>
+    <rule field="year" operator="greaterthan">
+        <value>2013</value>
+    </rule>
+    <group>none</group>
+    <limit>25</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

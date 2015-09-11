@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-5-short-movie-hd</name>
+    <match>all</match>
+    <rule field="genre" operator="is">Short</rule>
+    <rule field="time" operator="greaterthan">0</rule>
+    <rule field="videoresolution" operator="greaterthan">719</rule>
+    <limit>5</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

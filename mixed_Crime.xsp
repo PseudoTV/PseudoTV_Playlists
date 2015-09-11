@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="mixed">
+    <name>Crime</name>
+    <match>one</match>
+    <rule field="playlist" operator="is">episodes_Crime.xsp</rule>
+    <rule field="playlist" operator="is">movies_Crime.xsp</rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

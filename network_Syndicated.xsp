@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Syndicated</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Star Trek: Deep Space Nine</value>
+        <value>Star Trek: The Next Generation</value>
+        <value>Friday the 13th: The Series</value>
+        <value>G.I. Joe</value>
+        <value>ThunderCats</value>
+        <value>Transformers</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

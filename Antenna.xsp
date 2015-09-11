@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Antenna</name>
+    <match>all</match>
+    <rule field="tvshow" operator="is">
+        <value>Alfred Hitchcock Presents</value>
+        <value>All in the Family</value>
+        <value>Bewitched</value>
+        <value>Good Times</value>
+        <value>I Dream of Jeannie</value>
+        <value>I Love Lucy</value>
+        <value>My Favorite Martian</value>
+        <value>Sanford and Son</value>
+        <value>The Abbott and Costello Show</value>
+        <value>The Adventures of Sherlock Holmes</value>
+        <value>The Three Stooges</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

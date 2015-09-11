@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Documov</name>
+    <match>all</match>
+    <rule field="genre" operator="contains">Documentary</rule>
+    <rule field="genre" operator="isnot">Comedy</rule>
+    <rule field="genre" operator="isnot">Action</rule>
+    <rule field="lastplayed" operator="notinthelast">2 weeks</rule>
+    <limit>150</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

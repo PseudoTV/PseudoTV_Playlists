@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Dimension HD</name>
+    <match>all</match>
+    <rule field="videoresolution" operator="is">
+        <value>1080</value>
+    </rule>
+    <rule field="audiochannels" operator="greaterthan">
+        <value>2</value>
+    </rule>
+    <rule field="audiocodec" operator="isnot">
+        <value>aac</value>
+    </rule>
+    <rule field="genre" operator="doesnotcontain">
+        <value>Animation</value>
+        <value>Kids</value>
+        <value>Short</value>
+    </rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

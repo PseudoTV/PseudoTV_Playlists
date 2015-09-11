@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>ABC</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>Greys Anatomy</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Rookie Blue</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Revenge</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Modern Family</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>SWAT</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>s.w.a.t.</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>lost</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Drew Carey Show</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>shark tank</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>combat hospital</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>nypd blue</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the forgotten</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>family feud</value>
+    </rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-sci-fi-genres-movies-all</name>
+    <match>one</match>
+    <rule field="genre" operator="is">Sci-Fi</rule>
+    <rule field="genre" operator="is">Science Fiction</rule>
+    <rule field="videoresolution" operator="greaterthan">719</rule>
+</smartplaylist>

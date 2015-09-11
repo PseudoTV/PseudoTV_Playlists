@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>History</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>American Restoration</value>
+        <value>Hatfields &amp; McCoys</value>
+        <value>Mankind The Story of All of Us</value>
+        <value>The Bible</value>
+        <value>The Men Who Built America</value>
+        <value>The Universe</value>
+        <value>Top Shot</value>
+        <value>Vikings</value>
+        <value>The True Story</value>
+        <value>The Dark Ages</value>
+        <value>The Plague</value>
+        <value>Vietnam in HD</value>
+        <value>Wild West Tech</value>
+        <value>WWII in HD</value>
+        <value>The Brain</value>
+        <value>WWII: The Lost Color Archives</value>
+        <value>The World Wars</value>
+        <value>How the Earth Was Made</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Turner Flicks</name>
+    <match>all</match>
+    <rule field="genre" operator="doesnotcontain">Sport</rule>
+    <rule field="genre" operator="doesnotcontain">Documentary</rule>
+    <rule field="rating" operator="greaterthan">6.5</rule>
+    <rule field="year" operator="lessthan">1970</rule>
+    <rule field="path" operator="doesnotcontain">standup</rule>
+    <rule field="lastplayed" operator="notinthelast">3 weeks</rule>
+    <limit>150</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

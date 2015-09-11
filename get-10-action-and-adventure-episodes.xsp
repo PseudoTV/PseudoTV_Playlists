@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>get-10-action-and-adventure-episode</name>
+    <match>all</match>
+    <rule field="genre" operator="is">Action and Adventure</rule>
+    <limit>10</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

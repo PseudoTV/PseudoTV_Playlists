@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>get-100-2000s-episodes</name>
+    <match>all</match>
+    <rule field="airdate" operator="after">1999-12-31</rule>
+    <rule field="airdate" operator="before">2010-01-01</rule>
+    <limit>100</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

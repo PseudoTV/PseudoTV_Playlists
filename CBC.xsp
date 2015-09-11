@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>CBC</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>Arrested Development</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Simpsons</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Fresh Prince</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>Star Trek</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>heartland</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>the red green show</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>peanuts</value>
+    </rule>
+    <rule field="path" operator="contains">
+        <value>parks and rec</value>
+    </rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

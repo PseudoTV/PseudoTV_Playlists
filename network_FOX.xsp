@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>FOX</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>24</value>
+        <value>Alien Nation</value>
+        <value>Almost Human</value>
+        <value>Batman: The Animated Series</value>
+        <value>Bob's Burgers</value>
+        <value>Brooklyn Nine-Nine</value>
+        <value>Cosmos: A Space-Time Odyssey</value>
+        <value>Firefly</value>
+        <value>Gotham</value>
+        <value>Gracepoint</value>
+        <value>Hell's Kitchen (US)</value>
+        <value>Hotel Hell</value>
+        <value>King of the Hill</value>
+        <value>Human Target (2010)</value>
+        <value>MasterChef (US)</value>
+        <value>New Girl</value>
+        <value>Sleepy Hollow</value>
+        <value>Space: Above and Beyond</value>
+        <value>The Following</value>
+        <value>The Simpsons</value>
+        <value>The X-Files</value>
+        <value>The Critic</value>
+        <value>The Adventures of Brisco County, Jr.</value>
+        <value>Empire (2015)</value>
+        <value>Animaniacs</value>
+        <value>Tiny Toon Adventures</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

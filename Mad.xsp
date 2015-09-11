@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Mad</name>
+    <match>all</match>
+    <rule field="year" operator="greaterthan">
+        <value>1999</value>
+    </rule>
+    <rule field="year" operator="lessthan">
+        <value>2011</value>
+    </rule>
+    <rule field="genre" operator="is">
+        <value>Comedy</value>
+    </rule>
+    <rule field="genre" operator="doesnotcontain">
+        <value>sci</value>
+    </rule>
+    <rule field="genre" operator="isnot">
+        <value>Animation</value>
+    </rule>
+    <limit>10</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>GLOBAL HD</name>
+    <match>one</match>
+    <rule field="path" operator="contains">
+        <value>american dad</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>simpsons</value>
+    </rule>
+
+<rule field="path" operator="contains">
+        <value>cleveland show</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>family guy</value>
+    </rule>
+ 
+<rule field="path" operator="contains">
+        <value>the office</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>ncis</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>arrested development</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>my name is earl</value>
+    </rule>
+<rule field="path" operator="contains">
+        <value>house</value>
+    </rule>
+<limit>50</limit>
+  
+    <order direction="ascending">random</order>
+
+</smartplaylist>

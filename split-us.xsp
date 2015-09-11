@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>split-us</name>
+    <match>one</match>
+    <rule field="studio" operator="is">Netflix</rule>
+    <rule field="studio" operator="is">HBO</rule>
+    <rule field="studio" operator="is">MTV</rule>
+    <rule field="studio" operator="is">FOX</rule>
+    <rule field="studio" operator="startswith">FX</rule>
+    <rule field="studio" operator="is">Comedy Central</rule>
+    <rule field="studio" operator="is">NBC</rule>
+    <rule field="studio" operator="is">Cartoon Network</rule>
+    <rule field="studio" operator="is">ABC</rule>
+    <rule field="studio" operator="is">IFC</rule>
+    <limit>250</limit>
+</smartplaylist>

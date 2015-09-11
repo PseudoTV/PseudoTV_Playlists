@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Farflung</name>
+    <match>all</match>
+    <rule field="genre" operator="contains">Foreign</rule>
+    <rule field="rating" operator="greaterthan">5.0</rule>
+    <rule field="lastplayed" operator="notinthelast">2 weeks</rule>
+    <rule field="genre" operator="isnot">Documentary</rule>
+    <rule field="path" operator="doesnotcontain">standup</rule>
+    <limit>150</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

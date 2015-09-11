@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-50-road-movies-hd</name>
+    <match>all</match>
+    <rule field="genre" operator="is">Road Movie</rule>
+    <rule field="time" operator="greaterthan">0</rule>
+    <rule field="videoresolution" operator="greaterthan">719</rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

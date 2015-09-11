@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-100-1990s-movies</name>
+    <match>all</match>
+    <rule field="year" operator="after">1989</rule>
+    <rule field="year" operator="before">2000</rule>
+    <rule field="videoresolution" operator="greaterthan">719</rule>
+    <limit>100</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

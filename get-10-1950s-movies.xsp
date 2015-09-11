@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-10-1950s-movies</name>
+    <match>all</match>
+    <rule field="year" operator="after">1949</rule>
+    <rule field="year" operator="before">1960</rule>
+    <rule field="videoresolution" operator="lessthan">720</rule>
+    <limit>10</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

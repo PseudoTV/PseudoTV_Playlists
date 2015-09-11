@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name></name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Inside Planet Earth</value>
+        <value>Low Winter Sun</value>
+        <value>Secret Societies: The String Pullers</value>
+        <value>Secrets of the Stone Age</value>
+        <value>Jack The Ripper: The Definitive Story</value>
+        <value>Secrets of the Dark Ages</value>
+        <value>shackleton: Death or Glory</value>
+    </rule>
+    <limit>10</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

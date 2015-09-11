@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Cartoon Network</name>
+    <match>all</match>
+    <rule field="genre" operator="is">Animation</rule>
+    <rule field="path" operator="doesnotcontain">anime</rule>
+    <rule field="airdate" operator="after">2000</rule>
+    <rule field="lastplayed" operator="notinthelast">3 weeks</rule>
+    <limit>150</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

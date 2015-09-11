@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Food Network</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Good Eats</value>
+        <value>The Great Food Truck Race</value>
+        <value>Chopped</value>
+        <value>Cutthroat Kitchen</value>
+        <value>Guy's Big Bite</value>
+        <value>Restaurant: Impossible</value>
+        <value>The Next Food Network Star</value>
+        <value>Unwrapped</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

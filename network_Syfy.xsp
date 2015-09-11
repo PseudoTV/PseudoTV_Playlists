@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Syfy</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Face Off</value>
+        <value>12 Monkeys</value>
+        <value>Ascension</value>
+        <value>Neverland</value>
+        <value>Z Nation</value>
+        <value>Dominion</value>
+        <value>Helix</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

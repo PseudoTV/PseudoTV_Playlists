@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Stand Up</name>
+    <match>all</match>
+    <rule field="path" operator="contains">standup</rule>
+    <limit>150</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

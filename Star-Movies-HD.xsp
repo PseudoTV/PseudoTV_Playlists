@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Star Movies HD</name>
+    <match>all</match>
+    <rule field="year" operator="lessthan">2011</rule>
+    <rule field="videoresolution" operator="greaterthan">576</rule>
+    <rule field="genre" operator="isnot">B-Rated</rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

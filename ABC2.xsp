@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>ABC2</name>
+    <match>all</match>
+    <rule field="studio" operator="is">
+        <value>ABC</value>
+    </rule>
+    <rule field="year" operator="lessthan">
+        <value>2000</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

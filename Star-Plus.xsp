@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Star Plus</name>
+    <match>all</match>
+    <rule field="year" operator="greaterthan">1992</rule>
+    <rule field="year" operator="lessthan">2001</rule>
+    <rule field="genre" operator="isnot">B-Rated</rule>
+    <limit>50</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

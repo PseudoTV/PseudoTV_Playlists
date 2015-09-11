@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Bravo</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>The Rachel Zoe Project</value>
+        <value>Flipping Out</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

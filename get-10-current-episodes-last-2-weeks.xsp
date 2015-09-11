@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>get-10-current-episodes-last-2-weeks</name>
+    <match>all</match>
+    <rule field="airdate" operator="inthelast">2 weeks</rule>
+    <limit>10</limit>
+    <order direction="ascending">airdate</order>
+</smartplaylist>

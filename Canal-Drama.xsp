@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Canal+ Drama</name>
+    <match>all</match>
+    <rule field="genre" operator="is">
+        <value>Drama</value>
+    </rule>
+    <rule field="genre" operator="isnot">
+        <value>Action</value>
+    </rule>
+    <rule field="genre" operator="isnot">
+        <value>Adventure</value>
+    </rule>
+    <rule field="genre" operator="doesnotcontain">
+        <value>sci</value>
+    </rule>
+    <rule field="genre" operator="isnot">
+        <value>Horror</value>
+    </rule>
+    <limit>25</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

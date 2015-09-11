@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Adult Swim</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Childrens Hospital</value>
+        <value>Eagleheart</value>
+        <value>NTSF:SD:SUV::</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>
