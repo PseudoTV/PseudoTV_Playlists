@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Best Supporting Actor</name>
+    <match>one</match>
+    <rule field="title" operator="is">
+        <value>Come and Get It</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Life of Emile Zola</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kentucky</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Stagecoach</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Westerner</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>How Green Was My Valley</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Johnny Eager</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The More the Merrier</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Going My Way</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Tree Grows in Brooklyn</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Best Years of Our Lives</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Miracle on 34th Street</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Treasure of the Sierra Madre</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Twelve O&apos;Clock High</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>All About Eve</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Streetcar Named Desire</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Viva Zapata!</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>From Here to Eternity</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Barefoot Contessa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mister Roberts</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lust for Life</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sayonara</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Big Country</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ben-Hur</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Spartacus</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>West Side Story</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sweet Bird of Youth</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hud</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Topkapi</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Thousand Clowns</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Fortune Cookie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cool Hand Luke</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Subject Was Roses</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>They Shoot Horses, Don&apos;t They?</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ryan&apos;s Daughter</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Last Picture Show</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cabaret</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Paper Chase</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Godfather Part II</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Sunshine Boys</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>All the President&apos;s Men</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Julia</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Deer Hunter</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Being There</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ordinary People</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Arthur</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>An Officer and a Gentleman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Terms of Endearment</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Killing Fields</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cocoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hannah and Her Sisters</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Untouchables</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Fish Called Wanda</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Glory</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Goodfellas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>City Slickers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Unforgiven</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Fugitive</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ed Wood</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Usual Suspects</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jerry Maguire</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Good Will Hunting</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Affliction</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Cider House Rules</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Traffic</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Iris</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Adaptation</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mystic River</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Million Dollar Baby</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Syriana</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Little Miss Sunshine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>No Country for Old Men</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Dark Knight</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Inglourious Basterds</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Fighter</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Beginners</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Django Unchained</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dallas Buyers Club</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Whiplash</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bridge of Spies</value>
+    </rule>
+    <order direction="ascending">year</order>
+</smartplaylist>
