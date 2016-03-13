@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <smartplaylist type="mixed">
-    <name>Thriller</name>
+    <name>Thriller Mixed</name>
     <match>one</match>
     <rule field="playlist" operator="is">episodes_Thriller.xsp</rule>
     <rule field="playlist" operator="is">movies_Thriller.xsp</rule>
+    <limit>25</limit>
     <order direction="ascending">random</order>
 </smartplaylist>

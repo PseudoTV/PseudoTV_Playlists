@@ -2,9 +2,6 @@
 <smartplaylist type="movies">
     <name>Recently Added Movies</name>
     <match>all</match>
-    <rule field="dateadded" operator="inthelast">
-        <value>14</value>
-    </rule>
     <limit>25</limit>
     <order direction="descending">dateadded</order>
 </smartplaylist>
