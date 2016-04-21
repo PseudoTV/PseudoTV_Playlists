@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>King of the Hill</name>
-    <match>one</match>
-    <rule field="tvshow" operator="is">
-        <value>King of the Hill</value>
-    </rule>
-    <order direction="ascending">episode</order>
-</smartplaylist>

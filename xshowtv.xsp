@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>xShowTV</name>
-    <match>all</match>
-    <rule field="genre" operator="endswith">Show</rule>
-    <limit>150</limit>
-    <rule field="lastplayed" operator="notinthelast">2 weeks</rule>
-    <order direction="ascending">random</order>
-</smartplaylist>

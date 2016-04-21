@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="movies">
-    <name>Sky Movies HD Family</name>
-    <match>all</match>
-    <rule field="genre" operator="is">Family</rule>
-    <rule field="year" operator="greaterthan">2007</rule>
-    <limit>50</limit>
-    <order direction="ascending">random</order>
-</smartplaylist>
