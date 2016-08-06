@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>get-10-2010s-episode</name>
-    <match>all</match>
-    <rule field="airdate" operator="after">2009-12-31</rule>
-    <rule field="airdate" operator="before">2020-01-01</rule>
-    <limit>10</limit>
-    <order direction="ascending">random</order>
-</smartplaylist>

@@ -4,7 +4,7 @@
     <match>all</match>
     <rule field="year" operator="after">2010</rule>
     <rule field="year" operator="before">2020</rule>
-    <rule field="videoresolution" operator="greaterthan">719</rule>
+    <rule field="videoresolution" operator="lessthan">720</rule>
     <limit>1</limit>
     <order direction="ascending">random</order>
 </smartplaylist>

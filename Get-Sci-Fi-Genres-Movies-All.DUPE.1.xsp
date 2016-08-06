@@ -4,5 +4,5 @@
     <match>one</match>
     <rule field="genre" operator="is">Sci-Fi</rule>
     <rule field="genre" operator="is">Science Fiction</rule>
-    <rule field="videoresolution" operator="greaterthan">719</rule>
+    <rule field="videoresolution" operator="lessthan">720</rule>
 </smartplaylist>
