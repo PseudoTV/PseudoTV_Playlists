@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Best Visual Effects</name>
+    <match>one</match>
+    <rule field="title" operator="is">
+        <value>Wings</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Spawn of the North</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Rains Came</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Thief of Bagdad</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I Wanted Wings</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Reap the Wild Wind</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Crash Dive</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thirty Seconds Over Tokyo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wonder Man</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blithe Spirit</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Green Dolphin Street</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Portrait of Jennie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mighty Joe Young</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Destination Moon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>When Worlds Collide</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Plymouth Adventure</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The War of the Worlds</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>20,000 Leagues Under the Sea</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Bridges at Toko-Ri</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Ten Commandments</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Enemy Below</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tom Thumb</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ben-Hur</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Time Machine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Guns of Navarone</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Longest Day</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cleopatra</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mary Poppins</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thunderball</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fantastic Voyage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Doctor Dolittle</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>2001: A Space Odyssey</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Marooned</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tora! Tora! Tora!</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bedknobs and Broomsticks</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Poseidon Adventure</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Earthquake</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Hindenburg</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>King Kong</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Star Wars</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Superman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Alien</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Star Wars Episode V: The Empire Strikes Back</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Raiders of the Lost Ark</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>E.T. the Extra-Terrestrial</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Star Wars Episode VI: Return of the Jedi</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Indiana Jones and the Temple of Doom</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cocoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Aliens</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Innerspace</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Who Framed Roger Rabbit</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Abyss</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Total Recall</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Terminator 2: Judgment Day</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Death Becomes Her</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jurassic Park</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Forrest Gump</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Babe</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Independence Day</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Titanic</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>What Dreams May Come</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Matrix</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gladiator</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Lord of the Rings: The Fellowship of the Ring</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Lord of the Rings: The Two Towers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Lord of the Rings: The Return of the King</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Spider-Man 2</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>King Kong</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pirates of the Caribbean: Dead Man&apos;s Chest</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Golden Compass</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Curious Case of Benjamin Button</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Avatar</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Inception</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hugo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Life of Pi</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gravity</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Interstellar</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ex Machina</value>
+    </rule>
+    <order direction="ascending">year</order>
+</smartplaylist>

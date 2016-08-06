@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>NBC</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>30 Rock</value>
+        <value>Chuck</value>
+        <value>Community</value>
+        <value>Crossbones</value>
+        <value>Crossing Lines</value>
+        <value>Do No Harm</value>
+        <value>Earth 2</value>
+        <value>Frasier</value>
+        <value>Hannibal</value>
+        <value>Heroes</value>
+        <value>Dracula</value>
+        <value>Law &amp; Order</value>
+        <value>Law &amp; Order: Special Victims Unit</value>
+        <value>Life (2007)</value>
+        <value>NewsRadio</value>
+        <value>Prime Suspect (US)</value>
+        <value>Quantum Leap</value>
+        <value>Rosemary's Baby</value>
+        <value>Seinfeld</value>
+        <value>Star Trek</value>
+        <value>Star Trek: The Animated Series</value>
+        <value>Victory at Sea</value>
+        <value>Saturday Night Live</value>
+        <value>The Blacklist</value>
+        <value>The Monkees</value>
+        <value>Alfred Hitchcock Presents (1985)</value>
+        <value>Amazing Stories</value>
+        <value>Bad Judge</value>
+        <value>Miami Vice</value>
+        <value>The Alfred Hitchcock Hour</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

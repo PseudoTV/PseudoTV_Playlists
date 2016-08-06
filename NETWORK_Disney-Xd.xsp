@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Disney XD</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Star Wars Rebels</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

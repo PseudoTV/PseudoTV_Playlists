@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>A&amp;E</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Longmire</value>
+        <value>The First 48</value>
+        <value>Those Who Kill (US)</value>
+        <value>Storage Wars Texas</value>
+        <value>Cold Case Files</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

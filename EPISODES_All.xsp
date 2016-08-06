@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>utility-all-episodes</name>
+    <match>all</match>
+    <rule field="airdate" operator="after">1900-01-01</rule>
+</smartplaylist>

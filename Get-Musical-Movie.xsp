@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>get-musical-movie</name>
+    <match>all</match>
+    <rule field="genre" operator="is">Musical</rule>
+    <rule field="time" operator="greaterthan">0</rule>
+    <rule field="videoresolution" operator="lessthan">720</rule>
+    <limit>1</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>

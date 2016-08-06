@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Best Foreign</name>
+    <match>one</match>
+    <rule field="title" operator="is">
+        <value>Shoe-Shine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Monsieur Vincent</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Bicycle Thief</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Walls of Malapaga</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rashomon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Forbidden Games</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gate of Hell</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Samurai, The Legend of Musashi</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>La strada</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Nights of Cabiria</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Uncle</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Black Orpheus</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Virgin Spring</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Through a Glass Darkly</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sundays and Cybele</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>8½</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Yesterday, Today and Tomorrow</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Shop on Main Street</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Man and a Woman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Closely Watched Trains</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>War and Peace</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Z</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Investigation of a Citizen Above Suspicion</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Garden of the Finzi Continis</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Discreet Charm of the Bourgeoisie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Day for Night</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Amarcord</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dersu Uzala</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Black and White in Color</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Madame Rosa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Get Out Your Handkerchiefs</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Tin Drum</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Moscow Does Not Believe in Tears</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mephisto</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Volver a Empezar (&apos;To Begin Again&apos;)</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fanny and Alexander</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dangerous Moves</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Official Story</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Assault</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Babette&apos;s Feast</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pelle the Conqueror</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cinema Paradiso</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Journey of Hope</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mediterraneo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Indochine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Belle Époque</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Burnt by the Sun</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Antonia&apos;s Line</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kolya</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Character</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Life Is Beautiful</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>All About My Mother</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Crouching Tiger, Hidden Dragon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>No Man&apos;s Land</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Nowhere in Africa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Barbarian Invasions</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Sea Inside</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tsotsi</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Lives of Others</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Counterfeiters</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Departures</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Secret in Their Eyes</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>In a Better World</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Separation</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Amour</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Great Beauty</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ida</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Son of Saul</value>
+    </rule>
+    <order direction="ascending">year</order>
+</smartplaylist>

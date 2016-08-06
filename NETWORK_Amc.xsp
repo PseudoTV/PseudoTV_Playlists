@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>AMC</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Breaking Bad</value>
+        <value>Hell on Wheels</value>
+        <value>Better Call Saul</value>
+        <value>Low Winter Sun (US)</value>
+        <value>Talking Dead</value>
+        <value>The Walking Dead</value>
+        <value>Turn</value>
+        <value>Talking Bad</value>
+        <value>The Prisoner (2009)</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

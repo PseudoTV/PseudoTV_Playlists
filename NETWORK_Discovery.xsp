@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Discovery</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Curiosity</value>
+        <value>Gold Rush</value>
+        <value>How Booze Built America</value>
+        <value>Build it Bigger</value>
+        <value>Klondike (2014)</value>
+        <value>Moon Machines</value>
+        <value>MythBusters</value>
+        <value>North America</value>
+        <value>Penn &amp; Teller Tell a Lie</value>
+        <value>How We Invented The World</value>
+        <value>When We Left Earth: The NASA Missions</value>
+        <value>Into the Universe with Stephen Hawking</value>
+        <value>Stephen Hawking's Grand Design</value>
+        <value>How the Universe Works</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>truTV</name>
+    <match>one</match>
+    <rule field="tvshow" operator="is">
+        <value>Las Vegas Jailhouse</value>
+        <value>Forensic Files</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>
