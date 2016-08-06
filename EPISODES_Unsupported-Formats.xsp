@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>Unsupported Episode Formats</name>
-    <match>one</match>
-    <rule field="filename" operator="contains">.mov</rule>
-    <rule field="filename" operator="contains">.flv</rule>
-    <rule field="filename" operator="contains">.mpg</rule>
-</smartplaylist>

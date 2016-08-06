@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>get-tvshow-gossip-girl-episodes</name>
-    <match>all</match>
-    <rule field="tvshow" operator="is">Gossip Girl</rule>
-    <order direction="ascending">airdate</order>
-</smartplaylist>

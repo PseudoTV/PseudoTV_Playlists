@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="mixed">
-    <name>Suspense</name>
-    <match>one</match>
-    <rule field="playlist" operator="is">episodes_Suspense.xsp</rule>
-    <rule field="playlist" operator="is">movies_Suspense.xsp</rule>
-    <order direction="ascending">random</order>
-</smartplaylist>
