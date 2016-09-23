@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+<name>BBC Best</name>
+<match>one</match>
+<rule field="title" operator="is">
+    <value>Toni Erdmann</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Requiem for a Dream</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Carlos</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Gleaners and I</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Ten</value>
+</rule>
+<rule field="title" operator="is">
+    <value>White Material</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Finding Nemo</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Moonrise Kingdom</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Let the Right One In</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Ratatouille</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Assassination of Jesse James by the Coward Robert Ford</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Secret in Their Eyes</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Pianist</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Headless Woman</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Spotlight</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Amelie</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Far From Heaven</value>
+</rule>
+<rule field="title" operator="is">
+    <value>A Prophet</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Her</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Artificial Intelligence: AI</value>
+</rule>
+<rule field="title" operator="is">
+    <value>A Serious Man</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Shame</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Return</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Almost Famous</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Wolf of Wall Street</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Diving Bell and the Butterfly</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Dogville</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Inherent Vice</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Spring Breakers</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Before Sunset</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Only Lovers Left Alive</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Tabu</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Stories We Tell</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Carol</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Royal Tenenbaums</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Hurt Locker</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Spring, Summer, Fall, Winter and Spring</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Fish Tank</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Great Beauty</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Turin Horse</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Inglourious Basterds</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Under the Skin</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Syndromes and a Century</value>
+</rule>
+<rule field="title" operator="is">
+    <value>A History of Violence</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Moolaade</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Zero Dark Thirty</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Werckmeister Harmonies</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Ida</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Once Upon a Time in Anatolia</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Moulin Rouge!</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Tropical Malady</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Inception</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Assassin</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Goodbye to Language</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Brooklyn</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Leviathan</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Certified Copy</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Blue Is the Warmest Color</value>
+</rule>
+<rule field="title" operator="is">
+    <value>12 Years a Slave</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Melancholia</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Amour</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Inside Out</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Brokeback Mountain</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The New World</value>
+</rule>
+<rule field="title" operator="is">
+    <value>City of God</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Uncle Boonmee Who Can Recall His Past Lives</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Timbuktu</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Crouching Tiger, Hidden Dragon</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Son of Saul</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Dark Knight</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Lives of Others</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Margaret</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Oldboy</value>
+</rule>
+<rule field="title" operator="is">
+    <value>WALL-E</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Talk to Her</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Social Network</value>
+</rule>
+<rule field="title" operator="is">
+    <value>25th Hour</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Memento</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Master</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Cache</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Lost in Translation</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Grand Budapest Hotel</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Synecdoche, New York</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Mad Max: Fury Road</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The White Ribbon</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Pans Labyrinth</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Holy Motors</value>
+</rule>
+<rule field="title" operator="is">
+    <value>4 Months, 3 Weeks and 2 Days</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Act of Killing</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Children of Men</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Zodiac</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Inside Llewyn Davis</value>
+</rule>
+<rule field="title" operator="is">
+    <value>No Country for Old Men</value>
+</rule>
+<rule field="title" operator="is">
+    <value>A Separation</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Yi Yi: A One and a Two</value>
+</rule>
+<rule field="title" operator="is">
+    <value>The Tree of Life</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Eternal Sunshine of the Spotless Mind</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Boyhood</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Spirited Away</value>
+</rule>
+<rule field="title" operator="is">
+    <value>There Will Be Blood</value>
+</rule>
+<rule field="title" operator="is">
+    <value>In the Mood for Love</value>
+</rule>
+<rule field="title" operator="is">
+    <value>Mulholland Drive</value>
+</rule>
+<group>none</group>
+<order direction="descending">year</order>
+</smartplaylist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>The 15 Greatest Films of All Time</name>
+    <match>one</match>
+	<rule field="title" operator="is">	
+	<value>Andrei Rublev</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>The 400 Blows</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Persona</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Raging Bull</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Breathless</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Bicycle Thieves</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Mirror</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Vertigo</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>The Godfather</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Apocalypse Now</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Taxi Driver</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>8</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Citizen Kane</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>2001 A Space Odyssey</value>
+	</rule>
+	<rule field="title" operator="is">
+	<value>Tokyo Story</value>
+	</rule>
+ <order direction="descending">year</order>
+</smartplaylist>
