@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="episodes">
-    <name>get-1960s-episode</name>
-    <match>all</match>
-    <rule field="airdate" operator="after">1959-12-31</rule>
-    <rule field="airdate" operator="before">1970-01-01</rule>
-    <limit>1</limit>
-    <order direction="ascending">random</order>
-</smartplaylist>

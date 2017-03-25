@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Movies - 100 Best Comedy</name>
+    <match>one</match>
+<rule field="title" operator="is">
+<value>Some Like It Hot</value>
+</rule>
+<rule field="title" operator="is">
+<value>Tootsie</value>
+</rule>
+<rule field="title" operator="is">
+<value>Dr. Strangelove or: How I Learned To Stop Worrying and Love the Bomb</value>
+</rule>
+<rule field="title" operator="is">
+<value>Annie Hall</value>
+</rule>
+<rule field="title" operator="is">
+<value>Duck Soup</value>
+</rule>
+<rule field="title" operator="is">
+<value>Blazing Saddles</value>
+</rule>
+<rule field="title" operator="is">
+<value>Mash</value>
+</rule>
+<rule field="title" operator="is">
+<value>It Happened One Night</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Graduate</value>
+</rule>
+<rule field="title" operator="is">
+<value>Airplane!</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Producers</value>
+</rule>
+<rule field="title" operator="is">
+<value>A Night at the Opera</value>
+</rule>
+<rule field="title" operator="is">
+<value>Young Frankenstein</value>
+</rule>
+<rule field="title" operator="is">
+<value>Bringing Up Baby</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Philadelphia Story</value>
+</rule>
+<rule field="title" operator="is">
+<value>Singin' in the Rain</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Odd Couple</value>
+</rule>
+<rule field="title" operator="is">
+<value>The General</value>
+</rule>
+<rule field="title" operator="is">
+<value>His Girl Friday</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Apartment</value>
+</rule>
+<rule field="title" operator="is">
+<value>A Fish Called Wanda</value>
+</rule>
+<rule field="title" operator="is">
+<value>Adam's Rib</value>
+</rule>
+<rule field="title" operator="is">
+<value>When Harry Met Sally</value>
+</rule>
+<rule field="title" operator="is">
+<value>Born Yesterday</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Gold Rush</value>
+</rule>
+<rule field="title" operator="is">
+<value>Being There</value>
+</rule>
+<rule field="title" operator="is">
+<value>There's Something About Mary</value>
+</rule>
+<rule field="title" operator="is">
+<value>Ghostbusters</value>
+</rule>
+<rule field="title" operator="is">
+<value>This is Spinal Tap</value>
+</rule>
+<rule field="title" operator="is">
+<value>Arsenic and Old Lace</value>
+</rule>
+<rule field="title" operator="is">
+<value>Raising Arizona</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Thin Man</value>
+</rule>
+<rule field="title" operator="is">
+<value>Modern Times</value>
+</rule>
+<rule field="title" operator="is">
+<value>Groundhog Day</value>
+</rule>
+<rule field="title" operator="is">
+<value>Harvey</value>
+</rule>
+<rule field="title" operator="is">
+<value>National Lampoon's Animal House</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Great Dictator</value>
+</rule>
+<rule field="title" operator="is">
+<value>City Lights</value>
+</rule>
+<rule field="title" operator="is">
+<value>Sullivan's Travels</value>
+</rule>
+<rule field="title" operator="is">
+<value>It's a Mad Mad Mad Mad World</value>
+</rule>
+<rule field="title" operator="is">
+<value>Moonstruck</value>
+</rule>
+<rule field="title" operator="is">
+<value>Big</value>
+</rule>
+<rule field="title" operator="is">
+<value>American Graffiti</value>
+</rule>
+<rule field="title" operator="is">
+<value>My Man Godfrey</value>
+</rule>
+<rule field="title" operator="is">
+<value>Harold and Maude</value>
+</rule>
+<rule field="title" operator="is">
+<value>Manhattan</value>
+</rule>
+<rule field="title" operator="is">
+<value>Shampoo</value>
+</rule>
+<rule field="title" operator="is">
+<value>A Shot in the Dark</value>
+</rule>
+<rule field="title" operator="is">
+<value>To Be or Not to Be</value>
+</rule>
+<rule field="title" operator="is">
+<value>Cat Ballou</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Seven Year Itch</value>
+</rule>
+<rule field="title" operator="is">
+<value>Ninotchka</value>
+</rule>
+<rule field="title" operator="is">
+<value>Arthur</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Miracle of Morgan's Creek</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Lady Eve</value>
+</rule>
+<rule field="title" operator="is">
+<value>Abbott and Costello Meet Frankenstein</value>
+</rule>
+<rule field="title" operator="is">
+<value>Diner</value>
+</rule>
+<rule field="title" operator="is">
+<value>It's a Gift</value>
+</rule>
+<rule field="title" operator="is">
+<value>A Day at the Races</value>
+</rule>
+<rule field="title" operator="is">
+<value>Topper</value>
+</rule>
+<rule field="title" operator="is">
+<value>What's Up, Doc?</value>
+</rule>
+<rule field="title" operator="is">
+<value>Sherlock, Jr.</value>
+</rule>
+<rule field="title" operator="is">
+<value>Beverly Hills Cop</value>
+</rule>
+<rule field="title" operator="is">
+<value>Broadcast News</value>
+</rule>
+<rule field="title" operator="is">
+<value>Horse Feathers</value>
+</rule>
+<rule field="title" operator="is">
+<value>Take the Money and Run</value>
+</rule>
+<rule field="title" operator="is">
+<value>Mrs. Doubtfire</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Awful Truth</value>
+</rule>
+<rule field="title" operator="is">
+<value>Bananas</value>
+</rule>
+<rule field="title" operator="is">
+<value>Mr. Deeds Goes to Town</value>
+</rule>
+<rule field="title" operator="is">
+<value>Caddyshack</value>
+</rule>
+<rule field="title" operator="is">
+<value>Mr. Blandings Builds His Dream House</value>
+</rule>
+<rule field="title" operator="is">
+<value>Monkey Business</value>
+</rule>
+<rule field="title" operator="is">
+<value>9 to 5</value>
+</rule>
+<rule field="title" operator="is">
+<value>She Done Him Wrong</value>
+</rule>
+<rule field="title" operator="is">
+<value>Victor/Victoria</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Palm Beach Story</value>
+</rule>
+<rule field="title" operator="is">
+<value>Road to Morocco</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Freshman</value>
+</rule>
+<rule field="title" operator="is">
+<value>Sleeper</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Navigator</value>
+</rule>
+<rule field="title" operator="is">
+<value>Private Benjamin</value>
+</rule>
+<rule field="title" operator="is">
+<value>Father of the Bride</value>
+</rule>
+<rule field="title" operator="is">
+<value>Lost in America</value>
+</rule>
+<rule field="title" operator="is">
+<value>Dinner at Eight</value>
+</rule>
+<rule field="title" operator="is">
+<value>City Slickers</value>
+</rule>
+<rule field="title" operator="is">
+<value>Fast Times at Ridgemont High</value>
+</rule>
+<rule field="title" operator="is">
+<value>Beetlejuice</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Jerk</value>
+</rule>
+<rule field="title" operator="is">
+<value>Woman of the Year</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Heartbreak Kid</value>
+</rule>
+<rule field="title" operator="is">
+<value>Ball of Fire</value>
+</rule>
+<rule field="title" operator="is">
+<value>Fargo</value>
+</rule>
+<rule field="title" operator="is">
+<value>Auntie Mame</value>
+</rule>
+<rule field="title" operator="is">
+<value>Silver Streak</value>
+</rule>
+<rule field="title" operator="is">
+<value>Sons of the Desert</value>
+</rule>
+<rule field="title" operator="is">
+<value>Bull Durham</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Court Jester</value>
+</rule>
+<rule field="title" operator="is">
+<value>The Nutty Professor</value>
+</rule>
+<rule field="title" operator="is">
+<value>Good Morning, Vietnam</value>
+</rule>
+    <order direction="descending">year</order>
+</smartplaylist>

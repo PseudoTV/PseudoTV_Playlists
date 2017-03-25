@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>TV - All Christmas</name>
+    <match>one</match>
+    <rule field="title" operator="contains">
+        <value>christmas</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>christmas</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value> santa.</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value> santa.</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value> santa,</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value> santa,</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>secret santa</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>secret santa</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>santa claus</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>santa claus</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>st. nick</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>st. nick</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>yule</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>yule</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>xmas</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>xmas</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value> elf</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value> elf</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value> elves</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value> elves</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>scrooge</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>scrooge</value>
+    </rule>
+    <rule field="title" operator="contains">
+        <value>mistletoe</value>
+    </rule>
+    <rule field="plot" operator="contains">
+        <value>mistletoe</value>
+    </rule>
+    <order direction="ascending">tvshow</order>
+</smartplaylist>

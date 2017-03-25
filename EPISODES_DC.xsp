@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>DC</name>
+    <match>all</match>
+    <rule field="tvshow" operator="is">
+        <value>Arrow</value>
+        <value>Gotham</value>
+        <value>Constantine</value>
+        <value>The Flash (2014)</value>
+        <value>iZombie</value>
+        <value>Supergirl</value>
+        <value>Legends of Tomorrow</value>
+        <value>Lucifer</value>
+    </rule>
+    <order direction="ascending">airdate</order>
+</smartplaylist>

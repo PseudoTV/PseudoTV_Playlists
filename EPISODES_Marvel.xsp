@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="episodes">
+    <name>Marvel</name>
+    <match>all</match>
+    <rule field="tvshow" operator="is">
+        <value>Marvel's Agents of S.H.I.E.L.D.</value>
+        <value>Marvel's Agent Carter</value>
+        <value>Powers</value>
+        <value>Marvel's Daredevil</value>
+        <value>Jessica Jones</value>
+        <value>Luke Cage</value>
+        <value>Iron Fist</value>
+        <value>The Defenders</value>
+    </rule>
+    <order direction="ascending">airdate</order>
+</smartplaylist>
