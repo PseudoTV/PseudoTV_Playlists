@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Technicolour</name>
+    <match>one</match>
+    <rule field="title" operator="is">
+        <value>Flowers and Trees</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>La Cucaracha</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Service with a Smile</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Becky Sharp</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Coronation of King George VI</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dancing Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Garden of Allah</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ramona</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Trail of the Lonesome Pine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ebb Tide</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>God&apos;s Country and the Woman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Nothing Sacred</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Star is Born</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Vogues of 1938</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wings of the Morning</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Adventures of Robin Hood</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Adventures of Tom Sawyer</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Divorce of Lady X</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Drum</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gold is Where You Find It</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Goldwyn Follies</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Heart of the North</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Her Jungle Love</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kentucky</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Men with Wings</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sixty Glorious Years</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sweethearts</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Valley of the Giants</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dodge City</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Drums Along the Mohawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Four Feathers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gone With the Wind</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hollywood Cavalcade</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Ice Follies of 1939</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jesse James</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Little Princess</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Mikado</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Over the Moon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Private Lives of Elizabeth and Essex</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Swanee River</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Wizard of Oz</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bitter Sweet</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Blue Bird</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Chad Hanna</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dr. Cyclops</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Down Argentine Way</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Irene</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Maryland</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Northwest Mounted Police</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Northwest Passage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Return of Frank James</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Thief of Bagdad</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Typhoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Untamed</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Aloma of the South Seas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bahama Passage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Belle Star</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Billy the Kid</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blood and Sand</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blossoms in the Dust</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dive Bomber</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fiesta</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Louisiana Purchase</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Moon Over Miami</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Reluctant Dragon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Shepard of the Hills</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Smilin&apos; Through</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>That Night in Rio</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Virginia</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Week-End in Havana</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Western Union</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Arabian Nights</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Beyond the Horizon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Black Swan</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Captain of the Clouds</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Forest Rangers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jungle Book</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Moon and Sixpence</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Gal Sal</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Reap the Wild Wind</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Song of the Islands</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Springtime in the Rockies</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thunder Birds: Soldiers of Air</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>To the Shores of Tripoli</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Best Foot Forward</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Coney Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Crash Dive</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Desert Song</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Desperados</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dixie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Du Barry Was a Lady</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>For Whom the Bell Tolls</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Gang&apos;s All Here</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Happy Go Lucky</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Heaven Can Wait</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hello, Frisco, Hello</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lassie Come Home</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Life and Death of Colonel Blimp</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Friend Flicka</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Phantom of the Opera</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Riding High</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sweet Rosie O&apos;Grady</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>This is the Army</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>White Savage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ali Baba and the Forty Thieves</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>An American Romance</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bathing Beauty</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Belle of the Yukon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Broadway Rhythm</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Buffalo Bill</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Can&apos;t Help Singing</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Climax</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cobra Woman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cover Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Frenchman&apos;s Creek</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Greenwich Village</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gypsy Wildcat</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Home in Indiana</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Irish Eyes are Smiling</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kismet</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lady in the Dark</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Meet Me in St. Louis</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>National Velvet</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pin Up Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Princess and the Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rainbow Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Shine on Harvest Moon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Something for the Boys</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Story of Dr. Wassell</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>This Happy Breed</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thousands Cheer</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Three Caballeros</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Up in Arms</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Western Approaches</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Rider</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wilson</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Anchors Aweigh</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blithe Spirit</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bring on the Girls</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Diamond Horseshoe</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Dolly Sisters</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Frontier Gal</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Incendiary Blonde</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>It&apos;s a Pleasure</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Leave Her to Heaven</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Nob Hill</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Salome, Where She Danced</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>San Antonio</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Son of Lassie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Song to Remember</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Spanish Main</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>State Fair</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sudan</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Thousand and One Nights</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thrill of a Romance</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thunderhead, Son of Flicka</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tonight and Every Night</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Where Do We Go From Here?</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wonder Man</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Yolanda and the Thief</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Bandit of Sherwood Forest</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blue Skies</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Caesar and Cleopatra</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>California</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Canyon Passage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Courage of Lassie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Do You Love Me</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Duel in the Sun</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Easy to Wed</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Harvey Girls</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Holiday in Mexico</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I&apos;ve Always Loved You</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Jolson Story</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Kid From Brooklyn</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Laughing Lady</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>London Town</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Heart Goes Crazy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Margie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Matter of Life and Death</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Men of Two Worlds</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kisenga, Man of Africa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Night and Day</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Night in Paradise</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Renegades</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Smoky</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Song of the South</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Three Little Girls in Blue</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Till the Clouds Roll By</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Time, the Place and the Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Virginian</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wake Up and Dream</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Yearling</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ziegfeld Follies</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Black Narcissus</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blanche Fury</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Captain from Castile</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Carnival in Costa Rica</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Desert Fury</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Down to Earth</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fiesta</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Forever Amber</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fun and Fancy Tree</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Good News</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gunfighters</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Homestretch</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I Wonder Who&apos;s Kissing Her Now</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>An Ideal Husband</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jassy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Life with Father</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Man Within</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Smugglers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mother Wore Tights</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Wild Irish Rose</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Perils of Pauline</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pirates of Monterey</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Private Affairs of Bel Ami</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Secret Life of Walter Mitty</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Shocking Miss Pilgrim</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sinbad the Sailor</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Slave Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Song of Scheherazade</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>This Time for Keeps</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thunder in the Valley</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tycoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Unconquered</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Unfinished Dance</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Apartment for Peggy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Black Bart</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bonnie Prince Charlie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Boy with Green Hair</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Date with Judy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Easter Parade</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Emperor Waltz</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fighter Squadron</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Give My Regards to Broadway</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Green Grass of Wyoming</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hills of Home</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Joan of Arc</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Kissing Bandit</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Loves of Carmen</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Luxury Liner</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Man from Colorado</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>On an Island with You</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>On Sunday Afternoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Paleface</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Red Shoes</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Relentless</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Return of October</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>River Lady</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Romance on the High Seas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rope</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Scott of the Antarctic</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Scudda Hoo! Scudda Hay!</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Secret Land</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Song is Born</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Summer Holiday</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Swordsman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tap Roots</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>That Lady in Ermine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Three Darling Daughters</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>3 Godfathers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Three Musketeers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Two Guys from Texas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Untamed Breed</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>When My Baby Smiles at Me</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Words and Music</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Adventures of Don Juan</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bagdad</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Barkleys of Broadway</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Beautiful Blonde from Bashful Bend</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Big Cat</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Blue Lagoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Calamity Jane and Sam Bass</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Christopher Columbus</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Connecticut Yankee in King Arthur&apos;s Court</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dancing in the Dark</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Gal Who Took the West</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>In the Good Old Summertime</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Inspector General</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>It&apos;s a Great Feeling</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Jolson Sings Again</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Little Women</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Look for the Silver Lining</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mother Is a Freshman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Mutineers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Dream is Yours</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Neptune&apos;s Daughter</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Oh You Beautiful Doll</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>On the Town</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Red Canyon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Red Pony</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Samson and Delilah</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sand</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Saraband</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Saraband for Dead Lovers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Secret Garden</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>She Wore a Yellow Ribbon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>So Dear to My Heart</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Some of the Best</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>South of St. Louis </value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Story of Seabiscuit</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Streets of Laredo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Sun Comes Up</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Take Me Out to the Ball Game</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tale of the Navajos</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Task Force</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>That Forsyte Woman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>That Midnight Kiss</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tulsa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Under Capricorn</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Yes Sir, That&apos;s My Baby</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>You&apos;re My Everything</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Younger Brothers</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>American Guerrilla in the Philippines</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Annie Get Your Gun</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Barricade</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Black Rose</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Blue Lamp</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Branded</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Broken Arrow</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Buccaneer&apos;s Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Challenge to Lassie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cheaper by the Dozen</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Colt .45</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Comanche Territory</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Copper Canyon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Curtain Call at Cactus Creek</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Dallas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Daughter of Rosie O&apos;Grady</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Desert Hawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Destination Moon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Duchess of Idaho</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Eagle and the Hawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Elusive Pimpernel</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Fighting Pimpernel</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fancy Pants</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Flame and the Arrow</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Frenchie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Happy Years</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>High Lonesome</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I&apos;ll Get By</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kansas Raiders</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Kid from Texas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kim</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>King Solomon&apos;s Mines</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Let&apos;s Dance</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Montana</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>My Blue Heaven</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Nancy Goes to Rio</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Outriders</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pagan Love Song</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Palominos</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Peggy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Petty Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Return of the Frontiersman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Saddle Tramp</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sierra</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Summer Stock</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Sundowners</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tea for Two</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Three Little Words</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>A Ticket to Tomahawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Toast of New Orleans</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Treasure Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tripoli</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Two Weeks with Love</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wabash Avenue</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The White Tower</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wyoming Mail</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Across the Wide Missouri</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The African Queen</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Al Jennings of Oklahoma</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>An American in Paris</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Anne of the Indies</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Apache Drums</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Best of the Badmen</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bird of Paradise</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Call Me Mister</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Captain Horatio Hornblower</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cattle Drive</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cave of Outlaws&apos;</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Cimarron Kid</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Crosswinds</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>David and Bathsheba</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Distant Drums</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Double Crossbones</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Excuse My Dust</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Flame of Araby</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Flaming Feather</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Flying Leathernecks</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Fort Worth</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Golden Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Golden Horde</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Great Caruso</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Great Missouri Raid</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Half Angel</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Halls of Montezuma</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Happy Go Lovely</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The House in the Square</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I&apos;ll Never Forget You</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>I&apos;d Climb the Highest Mountain</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lady from Texas</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Last Outpost</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cavalry Charge</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Little Egypt</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lorna Doone</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lullaby of Broadway</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Magic Box</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Man in the Saddle</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Mark of the Renegade</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mask of the Avenger</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Meet Me After the Show</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mr. Imperium</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>On Moonlight Bay</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>On the Riviera</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Painted Hills</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Painting the Clouds with Sunshine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pandora and the Flying Dutchman</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Passage West</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Prince Who Was a Thief</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Quebec</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Quo Vadis</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Red Mountain</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rich, Young and Pretty</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The River</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Royal Wedding</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Santa Fe</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Show Boat</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Silver City</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Smuggler&apos;s Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Stage to Tucson</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Sugarfoot</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Take Care of My Little Girl</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tales of Hoffmann</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ten Tall Men</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Texas Carnival</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tomahawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Two Tickets to Broadway</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Valentino</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Vengeance Valley</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Warpath</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>When Worlds Collide</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Where No Vultures Fly</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ivory Hunter</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Aaron Slick from Punkin Crick</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>About Face</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Against All Flags</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>At Swords Point</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Battle of Apache Pass</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Because You&apos;re Mine</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Belle of New York</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Belles on Their Toes</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bend of the River</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Big Trees</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Blackbeard the Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Blazing Forest</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bloodhounds of Broadway</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Brave Warrior</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Brigand</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bronco Buster</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Bugles in the Afternoon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>California Conquest</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Captain Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Caribbean</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Crimson Pirate</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Cripple Creek</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Denver and Rio Grande</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Duel at Silver Creek</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Eldfägeln</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Firebird</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Everything I have is Yours</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Girls of Pleasure Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Golden Hawk</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Greatest Show on Earth</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Half-Breed</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hangman&apos;s Knot</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hans Christian Anderson</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Has Anybody Seen My Gal?</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hong Kong</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Horizons West</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Hurricane Smith</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Importance of Being Earnest</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Iron Mistress</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ivanhoe</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Just for You</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Kangaroo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lovely to Look At</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lure of the Wilderness</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Lydia Bailey</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Maytime in Mayfair</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Merry Widow</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Million Dollar Mermaid</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Montana Territory</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Moulin Rouge</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mutiny</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Plymouth Adventure</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Pony Soldier</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Prisoner of Zenda</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Quiet Man</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Raiders</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rainbow &apos;Round My Shoulder</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Rancho Notorious</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Red Skies of Montana</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Road to Bali</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Saturday Island</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Island of Desire</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Savage</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Scaramouche</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Scarlet Angel</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>She&apos;s Working Her Way Through College</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Singin&apos; in the Rain</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Skirts Ahoy</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Snows of Kilimanjaro</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Somebody Loves Me</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Son of Paleface</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Stars and Stripes Forever</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Steel Town</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Story of Robin Hood and His Merrie Men</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Thief of Damascus</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Tropic Zone</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Untamed Frontier</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Wait &apos;Til the Sun Shines, Nellie</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Way of a Gaucho</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>What Price Glory</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Where&apos;s Charley?</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Wild Heart</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>With a Song in My Heart</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The World in His Arms</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Yankee Buccaneer</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>All Ashore</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Ambush at Tomahawk Gap</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Band Wagon</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Calamity Jane</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Gentlemen Prefer Blondes</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Master of Ballantrae</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Mogambo</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Naked Spur</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Niagara</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Powder River</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Redhead from Wyoming</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Shane</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Barefoot Contessa</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Caine Mutiny</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>Foxfire</value>
+    </rule>
+    <rule field="title" operator="is">
+        <value>The Ladykillers</value>
+    </rule>
+    <order direction="ascending">year</order>
+</smartplaylist>
